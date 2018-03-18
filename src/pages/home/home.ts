@@ -75,7 +75,7 @@ export class HomePage {
         name: "addToDoInput",
         value: this.todos[todoIndex]
       }],
-      buttons: [{
+      buttons: [{ 
         text: "Cancel"
       }, {
         text: "Edit ToDo",
